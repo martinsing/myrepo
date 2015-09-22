@@ -1,3 +1,3 @@
 # myrepo
-A line I wrote on my local computer
-adding a line
+## Hi, I'm Martin
+I'm here to learn R-programming for data analytics
